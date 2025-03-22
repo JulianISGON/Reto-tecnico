@@ -12,13 +12,13 @@ describe('Flujo No Exitoso - Login fallido OrangeHRM', () => {
     loginPage.visit();
   });
 
-  it('Debe mostrar mensaje de error cuando las credenciales son incorrectas', () => {
+  it('Error si las credenciales son incorrectas', () => {
     loginPage.typeUsername(user.username);
-    cy.wait(900);
+    cy.wait(500);
     loginPage.typePassword(user.password);
-    cy.wait(900);
+    cy.wait(500);
     loginPage.clickLogin();
-    cy.wait(100); // Tiempo para que aparezca el mensaje de error
+    cy.wait(1000); // Tiempo para que aparezca el mensaje de error
 
     loginPage.assertErrorMessage('Invalid credentials');
   });
