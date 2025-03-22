@@ -1,7 +1,7 @@
 
 # Reto Técnico - Automatización QA N1 con Cypress
 
-Este proyecto es una solución al reto técnico solicitado para un proceso de ascenso en QA, utilizando **Cypress** como herramienta de automatización de pruebas end-to-end (E2E).
+Este proyecto es una solución al reto técnico solicitado, utilizando **Cypress** como herramienta de automatización de pruebas end-to-end (E2E).
 
 ---
 
