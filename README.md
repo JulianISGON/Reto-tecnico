@@ -64,7 +64,7 @@ reto-orangehrm/
 
 ### 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tuusuario/reto-cypress-orangehrm.git
+git clone https://github.com/tuusuario/Reto-tecnico.git
 cd reto-cypress-orangehrm
 ```
 
@@ -96,10 +96,4 @@ npx cypress run
 ## 👨‍💻 Autor
 
 - Julián Isaza  
-- QA Automation | Desarrollo de Software
-
 ---
-
-## 📝 Nota final
-
-Esta solución fue desarrollada cumpliendo los principios de buenas prácticas de automatización: código limpio, modular, mantenible y enfocado a facilitar la escalabilidad futura del proyecto.
