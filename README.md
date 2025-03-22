@@ -64,8 +64,8 @@ reto-orangehrm/
 
 ### 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tuusuario/Reto-tecnico.git
-cd reto-cypress-orangehrm
+git clone https://github.com/JulianISGON/Reto-tecnico.git
+cd Reto-tecnico
 ```
 
 ### 2. Instalar dependencias:
