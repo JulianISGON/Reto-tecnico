@@ -93,7 +93,7 @@ npx cypress run
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Solución dada por:
 
 - Julián Isaza  
 ---
