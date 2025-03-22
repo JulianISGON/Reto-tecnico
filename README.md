@@ -17,7 +17,7 @@ Este proyecto es una solución al reto técnico solicitado, utilizando **Cypress
 ## 📂 Estructura del Proyecto
 
 ```
-reto-orangehrm/
+reto-tecnico/
 ├── cypress/
 │   ├── e2e/
 │   │   └── login/
